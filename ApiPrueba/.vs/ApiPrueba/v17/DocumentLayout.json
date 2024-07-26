@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\SENA\\source\\repos\\ApiPrueba\\",
+  "WorkspaceRootPath": "C:\\Users\\SENA\\Documents\\JulianADSO2694667\\C-\\ApiPrueba\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFB16EB2-41DF-454E-B2A6-B7E593F61621}|ApiPrueba\\ApiPrueba.csproj|C:\\Users\\SENA\\source\\repos\\ApiPrueba\\apiprueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFB16EB2-41DF-454E-B2A6-B7E593F61621}|ApiPrueba\\ApiPrueba.csproj|solutionrelative:apiprueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SENA\\Documents\\JulianADSO2694667\\C-\\ApiPrueba\\ApiPrueba\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiPrueba\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFB16EB2-41DF-454E-B2A6-B7E593F61621}|ApiPrueba\\ApiPrueba.csproj|C:\\Users\\SENA\\source\\repos\\ApiPrueba\\apiprueba\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFB16EB2-41DF-454E-B2A6-B7E593F61621}|ApiPrueba\\ApiPrueba.csproj|solutionrelative:apiprueba\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SENA\\Documents\\JulianADSO2694667\\C-\\ApiPrueba\\ApiPrueba\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiPrueba\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFB16EB2-41DF-454E-B2A6-B7E593F61621}|ApiPrueba\\ApiPrueba.csproj|c:\\users\\sena\\source\\repos\\apiprueba\\apiprueba\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFB16EB2-41DF-454E-B2A6-B7E593F61621}|ApiPrueba\\ApiPrueba.csproj|solutionrelative:apiprueba\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SENA\\Documents\\JulianADSO2694667\\C-\\ApiPrueba\\ApiPrueba\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiPrueba\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,37 +26,35 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "categoria.cs",
-              "DocumentMoniker": "C:\\Users\\SENA\\source\\repos\\ApiPrueba\\ApiPrueba\\categoria.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\JulianADSO2694667\\C-\\ApiPrueba\\ApiPrueba\\categoria.cs",
               "RelativeDocumentMoniker": "ApiPrueba\\categoria.cs",
-              "ToolTip": "C:\\Users\\SENA\\source\\repos\\ApiPrueba\\ApiPrueba\\categoria.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\JulianADSO2694667\\C-\\ApiPrueba\\ApiPrueba\\categoria.cs",
               "RelativeToolTip": "ApiPrueba\\categoria.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T19:43:25.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T19:43:25.102Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "producto.cs",
-              "DocumentMoniker": "C:\\Users\\SENA\\source\\repos\\ApiPrueba\\ApiPrueba\\producto.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\JulianADSO2694667\\C-\\ApiPrueba\\ApiPrueba\\producto.cs",
               "RelativeDocumentMoniker": "ApiPrueba\\producto.cs",
-              "ToolTip": "C:\\Users\\SENA\\source\\repos\\ApiPrueba\\ApiPrueba\\producto.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\JulianADSO2694667\\C-\\ApiPrueba\\ApiPrueba\\producto.cs",
               "RelativeToolTip": "ApiPrueba\\producto.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T19:43:05.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T19:43:05.594Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SENA\\source\\repos\\ApiPrueba\\ApiPrueba\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\JulianADSO2694667\\C-\\ApiPrueba\\ApiPrueba\\Program.cs",
               "RelativeDocumentMoniker": "ApiPrueba\\Program.cs",
-              "ToolTip": "C:\\Users\\SENA\\source\\repos\\ApiPrueba\\ApiPrueba\\Program.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\JulianADSO2694667\\C-\\ApiPrueba\\ApiPrueba\\Program.cs",
               "RelativeToolTip": "ApiPrueba\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
