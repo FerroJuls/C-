@@ -1,0 +1,7 @@
+C:\Users\SENA\source\repos\ApiPrueba\ApiPrueba\bin\Debug\ApiPrueba.exe.config
+C:\Users\SENA\source\repos\ApiPrueba\ApiPrueba\bin\Debug\ApiPrueba.exe
+C:\Users\SENA\source\repos\ApiPrueba\ApiPrueba\bin\Debug\ApiPrueba.pdb
+C:\Users\SENA\source\repos\ApiPrueba\ApiPrueba\obj\Debug\ApiPrueba.csproj.AssemblyReference.cache
+C:\Users\SENA\source\repos\ApiPrueba\ApiPrueba\obj\Debug\ApiPrueba.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\ApiPrueba\ApiPrueba\obj\Debug\ApiPrueba.exe
+C:\Users\SENA\source\repos\ApiPrueba\ApiPrueba\obj\Debug\ApiPrueba.pdb
