@@ -1,0 +1,15 @@
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\D\obj\Debug\net8.0\D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\D\obj\Debug\net8.0\D.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\D\obj\Debug\net8.0\D.AssemblyInfo.cs
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\D\obj\Debug\net8.0\D.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\D\obj\Debug\net8.0\D.sourcelink.json
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\D\bin\Debug\net8.0\D.exe
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\D\bin\Debug\net8.0\D.deps.json
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\D\bin\Debug\net8.0\D.runtimeconfig.json
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\D\bin\Debug\net8.0\D.dll
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\D\bin\Debug\net8.0\D.pdb
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\D\obj\Debug\net8.0\D.dll
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\D\obj\Debug\net8.0\refint\D.dll
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\D\obj\Debug\net8.0\D.pdb
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\D\obj\Debug\net8.0\D.genruntimeconfig.cache
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\D\obj\Debug\net8.0\ref\D.dll

@@ -1,0 +1,15 @@
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\1-5Practica\bin\Debug\net8.0\1-5Practica.exe
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\1-5Practica\bin\Debug\net8.0\1-5Practica.deps.json
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\1-5Practica\bin\Debug\net8.0\1-5Practica.runtimeconfig.json
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\1-5Practica\bin\Debug\net8.0\1-5Practica.dll
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\1-5Practica\bin\Debug\net8.0\1-5Practica.pdb
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\1-5Practica\obj\Debug\net8.0\1-5Practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\1-5Practica\obj\Debug\net8.0\1-5Practica.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\1-5Practica\obj\Debug\net8.0\1-5Practica.AssemblyInfo.cs
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\1-5Practica\obj\Debug\net8.0\1-5Practica.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\1-5Practica\obj\Debug\net8.0\1-5Practica.sourcelink.json
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\1-5Practica\obj\Debug\net8.0\1-5Practica.dll
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\1-5Practica\obj\Debug\net8.0\refint\1-5Practica.dll
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\1-5Practica\obj\Debug\net8.0\1-5Practica.pdb
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\1-5Practica\obj\Debug\net8.0\1-5Practica.genruntimeconfig.cache
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\1-5Practica\obj\Debug\net8.0\ref\1-5Practica.dll

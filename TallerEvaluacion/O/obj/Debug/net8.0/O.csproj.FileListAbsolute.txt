@@ -1,0 +1,15 @@
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\O\bin\Debug\net8.0\O.exe
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\O\bin\Debug\net8.0\O.deps.json
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\O\bin\Debug\net8.0\O.runtimeconfig.json
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\O\bin\Debug\net8.0\O.dll
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\O\bin\Debug\net8.0\O.pdb
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\O\obj\Debug\net8.0\O.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\O\obj\Debug\net8.0\O.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\O\obj\Debug\net8.0\O.AssemblyInfo.cs
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\O\obj\Debug\net8.0\O.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\O\obj\Debug\net8.0\O.sourcelink.json
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\O\obj\Debug\net8.0\O.dll
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\O\obj\Debug\net8.0\refint\O.dll
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\O\obj\Debug\net8.0\O.pdb
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\O\obj\Debug\net8.0\O.genruntimeconfig.cache
+C:\Users\SENA\Documents\JulianADSO2694667\C-\TallerEvaluacion\O\obj\Debug\net8.0\ref\O.dll
