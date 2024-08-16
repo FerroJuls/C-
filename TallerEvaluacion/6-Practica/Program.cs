@@ -10,7 +10,6 @@ public class Program
 
         var resultado = await LeerBaseDatosSimulada();
         Console.WriteLine(resultado);
-
     }
 
     static async Task<string> LeerBaseDatosSimulada()

@@ -8,15 +8,15 @@ namespace _1_5Practica
 {
     public class Empleado : Persona, ICalcularSalario
     {
-        public int SalarioPorDias { get; set; }
+        public decimal SalarioPorDias { get; set; }
         public string Cargo { get; set; }
         public int DiasTrabajados { get; set; }
 
-        public Empleado() : base()
+        public Empleado(string nombre, int edad, uint telefono, string direccion, string cargo, decimal salarioPorDias)
+            : base(nombre, edad, telefono, direccion)
         {
-            Cargo = "Empleado";
-            SalarioPorDias = 43334;
-            DiasTrabajados = 30;
+            Cargo = cargo;
+            SalarioPorDias = salarioPorDias;
         }
 
         public decimal CalcularSalario()
@@ -26,12 +26,24 @@ namespace _1_5Practica
 
         public override void MostrarPersona()
         {
-            Console.WriteLine($"{Cargo}");
             Console.WriteLine();
-            base.MostrarPersona();
-            decimal Salario = CalcularSalario();
-            Console.WriteLine($"Salario: {Salario}");
+            Console.WriteLine(new string('=', 30));
+            Console.WriteLine($" Cargo: {Cargo,-30}");
+            Console.WriteLine(new string('=', 30)); 
+
+            base.MostrarPersona(); 
+
+            Console.WriteLine(new string('=', 30));
+            decimal salario = CalcularSalario();
+            Console.WriteLine($" Salario: {salario:C0}");
+            Console.WriteLine(new string('=', 30));  
+            Console.WriteLine(); 
+        }
+
+
+        public void EstablecerDiasTrabajados(int dias)
+        {
+            DiasTrabajados = dias;
         }
     }
-
 }
