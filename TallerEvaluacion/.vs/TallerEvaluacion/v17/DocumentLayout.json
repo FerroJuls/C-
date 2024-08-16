@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\SENA\\Documents\\JulianADSO2694667\\C-\\TallerEvaluacion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DCC4229-0D02-4D1B-8B79-D56ED5F51105}|1-5Practica\\1-5Practica.csproj|c:\\users\\sena\\documents\\julianadso2694667\\c-\\tallerevaluacion\\1-5practica\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DCC4229-0D02-4D1B-8B79-D56ED5F51105}|1-5Practica\\1-5Practica.csproj|solutionrelative:1-5practica\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7DCC4229-0D02-4D1B-8B79-D56ED5F51105}|1-5Practica\\1-5Practica.csproj|c:\\users\\sena\\documents\\julianadso2694667\\c-\\tallerevaluacion\\1-5practica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DCC4229-0D02-4D1B-8B79-D56ED5F51105}|1-5Practica\\1-5Practica.csproj|solutionrelative:1-5practica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCC4229-0D02-4D1B-8B79-D56ED5F51105}|1-5Practica\\1-5Practica.csproj|c:\\users\\sena\\documents\\julianadso2694667\\c-\\tallerevaluacion\\1-5practica\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCC4229-0D02-4D1B-8B79-D56ED5F51105}|1-5Practica\\1-5Practica.csproj|solutionrelative:1-5practica\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7DCC4229-0D02-4D1B-8B79-D56ED5F51105}|1-5Practica\\1-5Practica.csproj|c:\\users\\sena\\documents\\julianadso2694667\\c-\\tallerevaluacion\\1-5practica\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -46,8 +46,7 @@
               "RelativeToolTip": "1-5Practica\\Persona.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T17:57:35.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T17:57:35.783Z"
             },
             {
               "$type": "Document",
@@ -59,31 +58,30 @@
               "RelativeToolTip": "1-5Practica\\ICalcularSalario.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T18:42:46.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T18:42:46.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Empleado.cs",
               "DocumentMoniker": "C:\\Users\\SENA\\Documents\\JulianADSO2694667\\C-\\TallerEvaluacion\\1-5Practica\\Empleado.cs",
               "RelativeDocumentMoniker": "1-5Practica\\Empleado.cs",
               "ToolTip": "C:\\Users\\SENA\\Documents\\JulianADSO2694667\\C-\\TallerEvaluacion\\1-5Practica\\Empleado.cs",
               "RelativeToolTip": "1-5Practica\\Empleado.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAIwCUAAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T17:48:25.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\SENA\\Documents\\JulianADSO2694667\\C-\\TallerEvaluacion\\1-5Practica\\Program.cs",
               "RelativeDocumentMoniker": "1-5Practica\\Program.cs",
               "ToolTip": "C:\\Users\\SENA\\Documents\\JulianADSO2694667\\C-\\TallerEvaluacion\\1-5Practica\\Program.cs",
               "RelativeToolTip": "1-5Practica\\Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowDwAAAAJAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowDwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T17:48:11.204Z",
               "EditorCaption": ""
@@ -98,8 +96,7 @@
               "RelativeToolTip": "6-Practica\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T17:39:54.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T17:39:54.278Z"
             },
             {
               "$type": "Document",
@@ -111,8 +108,7 @@
               "RelativeToolTip": "L\\Animal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T17:34:46.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T17:34:46.451Z"
             }
           ]
         }

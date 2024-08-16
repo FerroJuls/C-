@@ -35,7 +35,7 @@ namespace _1_5Practica
 
             Console.WriteLine(new string('=', 30));
             decimal salario = CalcularSalario();
-            Console.WriteLine($" Salario: {salario:C0}");
+            Console.WriteLine($" Salario: {salario:C2}");
             Console.WriteLine(new string('=', 30));  
             Console.WriteLine(); 
         }
